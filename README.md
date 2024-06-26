@@ -19,4 +19,8 @@ caso alguma coisa de errado como bugs ou erros você podera entrar em contato co
 
 ## Licença
 
-minha licença 
+minha licença e uma Apache License Version 2.0 que da uma libertade muito grande para qualquer pessoa.
+
+## Contato
+
+migueldhein50@gmail.com
