@@ -1,5 +1,9 @@
 # TrabalhoDeIngles2.cpp
 
+## nome do software
+
+TaskManager
+
 ## Visão Geral do Software 
 
 esse software foi desenvolvido para permite aos usuários criar, visualizar e gerenciar
