@@ -1,34 +1,34 @@
 # TrabalhoDeIngles2.cpp
 
-## nome do software
+## software name
 
 TaskManager
 
-## Visão Geral do Software 
+## Software Overview
 
-esse software foi desenvolvido para permite aos usuários criar, visualizar e gerenciar
-suas tarefas diárias de maneira eficiente.
+This software was developed to allow users to create, view and manage
+your daily tasks efficiently.
 
-## Instalação
+## Installation
 
-irá abaixar o arquivo do meu github direto para seu. 
+will download the file from my github directly to yours.
 
-## Guia de Uso Básico
+## Basic Usage Guide
 
-quando você ja fez a instalação do codigo você só ira precisar abaixar a extensão de c++ depois do executar o codigo.
+When you have already installed the code you will only need to download the c++ extension after running the code.
 
-## Contribuição 
+## Contribution
 
-caso alguma coisa de errado como bugs ou erros você podera entrar em contato comigo pelo meu emgail que está nos contatos.
+If anything goes wrong, such as bugs or errors, you can contact me via my emgail which is in the contacts.
 
-## Licença
+## License
 
-minha licença e uma Apache License Version 2.0 que da uma libertade muito grande para qualquer pessoa.
+My license is an Apache License Version 2.0 which gives great freedom to anyone.
 
-## Contato
+## Contact
 
 migueldhein50@gmail.com
 
-## link do software para download 
+## software download link
 
 https://github.com/miguel14535/TrabalhoDeIngles2.cpp.git
