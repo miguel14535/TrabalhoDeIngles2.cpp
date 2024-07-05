@@ -14,7 +14,7 @@ will download the file from my github directly to yours.
 
 ## Basic Usage Guide
 
-you will download the links I left on github
+you will download the links I left on github you will have to lower both
 
 ## Contribution
 
