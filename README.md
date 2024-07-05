@@ -2,12 +2,11 @@
 
 ## software name
 
-TaskManager
+pin counter
 
 ## Software Overview
 
-This software was developed to allow users to create, view and manage
-your daily tasks efficiently.
+This software was developed to count bits
 
 ## Installation
 
@@ -15,7 +14,7 @@ will download the file from my github directly to yours.
 
 ## Basic Usage Guide
 
-When you have already installed the code you will only need to download the c++ extension after running the code.
+you will download the links I left on github
 
 ## Contribution
 
